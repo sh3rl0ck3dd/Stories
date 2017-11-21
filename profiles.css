@@ -1,0 +1,21 @@
+body{
+   font-family: "Comic Sans MS";
+   margin-right:7%; 
+   margin-left:7%;
+   margin-top: 7%;
+}
+.below-navbar{
+margin:50px auto;
+ }
+
+.my-image-size{
+
+	border: 2px solid #b7b8ff;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50%;
+    
+    margin-bottom: 12%;
+    margin-left: 10%;
+
+}

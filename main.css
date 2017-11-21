@@ -1,0 +1,84 @@
+
+body{
+   font-family: "Comic Sans MS";
+
+}.red
+{
+  background: red;
+}
+.blue
+{
+  background: blue;
+}
+.black
+{
+  background: black;
+}
+
+.classy
+{
+   background:url(gallery/bgg.jpg);
+    background-size: 100%;
+   background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.nerd{
+   background:url(gallery/first.png);
+    background-size: 100%;
+   background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.social{
+   background:url(gallery/bg1.png);
+    background-size: 100%;
+   background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.default{
+
+}
+
+hr{
+  border-color: black;
+
+}
+.below-navbar{
+margin:50px auto;
+ }
+#all-posts{
+  margin-left: 0%;
+ }
+#add-form{
+   padding-top:13px;
+   padding-left:10px;
+  margin-left: 0%;
+  
+
+}
+.my-image-size{
+
+	 border: 2px solid #b7b8ff;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100%;
+    height:auto;
+    
+}
+div.polaroid {
+  width:100%;
+
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+div.container1 {
+  text-align: center;
+  padding: 10px 20px;
+}
+div.contentcontainer{
+  border-radius: 10px;
+	background-color: #e5e6f9;
+	width:40%;
+  padding:13px;
+  margin-bottom: 7px;
+}

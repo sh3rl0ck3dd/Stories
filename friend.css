@@ -1,0 +1,29 @@
+  #background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('gallery/bg1.PNG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.015;
+    
+}
+body{
+   font-family: "Comic Sans MS";
+   margin-left: 13%;
+}
+.below-navbar{
+margin:50px auto;
+ }
+ .my-image-size{
+	border: 2px solid #b7b8ff;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+    height:100px;
+}
+
+td img {display: block;}
