@@ -4,7 +4,7 @@ This project is a clone of instagram with facebook style format.It has features 
 
 To run this project on localhost-
 
-1. Install [wamp](http://www.wampserver.com/en/) and download all these files
+1. Install [WampServer](http://www.wampserver.com/en/) and download all these files
 2. Copy files in www folder in the installed wamp's directory
 3. Create the required tables in using mysql (all table's examples are given as screenshots in stories folder)
 4. Change the details of connecting to mqsql database in dbconnect.php
