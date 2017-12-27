@@ -1,4 +1,4 @@
-# Stories>alpha
+# Stories######(alpha)
 
 This project is a clone of instagram with facebook style format.It has features like posting/deleting posts, following/unfollowing someone,commenting and liking posts dynamically using ajax and a XP system.The points earned as XP can be used for changing one's UI. 
 
